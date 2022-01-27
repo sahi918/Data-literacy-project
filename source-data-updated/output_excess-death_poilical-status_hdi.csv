@@ -1,0 +1,27 @@
+,Country,covid_deaths_per_100k,excess_deaths_per_100k,PR,CL,Status,HDI_2019
+0,Argentina,94,91,2,2,F,0.845
+1,Brazil,91,98,2,3,F,0.765
+2,Canada,42,43,1,1,F,0.929
+3,Colombia,85,99,3,3,PF,0.767
+4,Egypt,7,100,6,6,NF,0.707
+5,France,96,80,1,2,F,0.901
+6,Germany,41,48,1,1,F,0.947
+7,Indonesia,4,41,2,4,PF,0.718
+8,Iran,65,138,6,6,NF,0.783
+9,Italy,124,182,1,1,F,0.892
+10,Japan,2,-15,1,1,F,0.919
+11,Malaysia,1,-42,4,4,PF,0.810
+12,Mexico,97,238,3,4,PF,0.779
+13,Peru,280,296,3,3,PF,0.777
+14,Philippines,8,-7,3,4,PF,0.718
+15,Poland,77,172,2,2,F,0.880
+16,Russia,38,255,7,6,NF,0.824
+17,South Africa,49,95,2,2,F,0.709
+18,South Korea,1,0,2,2,F,0.916
+19,Spain,108,159,1,1,F,0.904
+20,Thailand,0,1,7,5,NF,0.777
+21,Turkey,67,104,5,6,NF,0.820
+22,Ukraine,44,96,3,4,PF,0.779
+23,United Kingdom,110,124,1,1,F,0.932
+24,United States,5396,7823,2,2,F,0.926
+25,Uzbekistan,1,52,7,6,NF,0.720
